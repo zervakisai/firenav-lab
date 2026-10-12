@@ -1,0 +1,2 @@
+# FireNav Lab starter requires Python 3.10+ and tkinter.
+# No pip-installed runtime packages are needed for the beginner starter.
